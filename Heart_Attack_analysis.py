@@ -52,7 +52,7 @@ from sklearn.metrics import confusion_matrix, precision_score, recall_score, f1_
 
 # %%
 # after downloading the csv file use the correct file path. Sometimes an absolute path is necessary.
-file = 'C:/Users/Rebecca/OneDrive/Documents/Data Science/Python Files/Classification_Project/HeartAttack_AnalysisPrediction_Dataset.csv'
+file = 'HeartAttack_AnalysisPrediction_Dataset.csv'
 
 df = pd.read_csv(file)
 df
