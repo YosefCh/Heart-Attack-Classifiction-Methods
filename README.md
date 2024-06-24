@@ -19,17 +19,23 @@ The following machine learning algorithms are employed in this project:
 - **Logistic Regression**: Logistic regression is a statistical model that in its basic form uses a logistic function to model a binary dependent variable.
 
 
-## License
-
-MIT License
-
-
 
 ## Evaluation and Results
 
 In this project, all classification methods are rigorously evaluated using cross-validation. Given the critical nature of medical predictions, we have chosen to use **Recall** and **F1 scores** as our primary evaluation metrics, as they provide a more balanced view of our model's performance than accuracy alone.
 
 The results of each algorithm are visualized through plots, allowing for an intuitive comparison of their performance. These visualizations provide valuable insights into the strengths and weaknesses of each algorithm in predicting heart attacks.
+
+
+## Usage
+
+To use this notebook, you can install Python, along with the necessary libraries (numpy, pandas, matplotlib, scikit-learn, seaborn). You can then run the notebook cell-by-cell to follow along with the analysis. Alternatively the file can be run on https://colab.research.google.com/
+
+
+
+## License
+
+MIT License
 
 ![image](https://github.com/YosefCh/Heart-Attack-Classifiction-Methods/assets/155560788/eacedec6-52b8-4736-99cf-f28a23edd789)
 
