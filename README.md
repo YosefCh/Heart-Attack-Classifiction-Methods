@@ -37,5 +37,7 @@ To use this notebook, you can install Python, along with the necessary libraries
 
 MIT License
 
+_____________________________________________________________
+
 ![image](https://github.com/YosefCh/Heart-Attack-Classifiction-Methods/assets/155560788/eacedec6-52b8-4736-99cf-f28a23edd789)
 
