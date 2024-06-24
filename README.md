@@ -24,6 +24,7 @@ The following machine learning algorithms are employed in this project:
 MIT License
 
 
+
 ## Evaluation and Results
 
 In this project, all classification methods are rigorously evaluated using cross-validation. Given the critical nature of medical predictions, we have chosen to use **Recall** and **F1 scores** as our primary evaluation metrics, as they provide a more balanced view of our model's performance than accuracy alone.
